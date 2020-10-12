@@ -1,5 +1,17 @@
 # Changelog
 
+### [2.0.3](https://www.github.com/googleapis/java-asset/compare/v2.0.2...v2.0.3) (2020-10-12)
+
+
+### Dependencies
+
+* update dependency com.google.api.grpc:proto-google-cloud-orgpolicy-v1 to v1.0.2 ([#354](https://www.github.com/googleapis/java-asset/issues/354)) ([1d70c65](https://www.github.com/googleapis/java-asset/commit/1d70c65101c35dc8c842765baa42397f51a3edd1))
+* update dependency com.google.api.grpc:proto-google-cloud-orgpolicy-v1 to v1.0.3 ([#387](https://www.github.com/googleapis/java-asset/issues/387)) ([52914a8](https://www.github.com/googleapis/java-asset/commit/52914a81247ea37afdd2bb8939f019559af28c08))
+* update dependency com.google.api.grpc:proto-google-identity-accesscontextmanager-v1 to v1.0.2 ([#355](https://www.github.com/googleapis/java-asset/issues/355)) ([e5be03f](https://www.github.com/googleapis/java-asset/commit/e5be03fd579b695f3bf657cfe76297f2f594b760))
+* update dependency com.google.api.grpc:proto-google-identity-accesscontextmanager-v1 to v1.0.3 ([#386](https://www.github.com/googleapis/java-asset/issues/386)) ([eec8f6b](https://www.github.com/googleapis/java-asset/commit/eec8f6b8ebb53227a7a326d80c49c45b3432adf1))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.10.1 ([#371](https://www.github.com/googleapis/java-asset/issues/371)) ([f5c0d67](https://www.github.com/googleapis/java-asset/commit/f5c0d67e05c0b6d587f8869de73da064daa2e1b2))
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.10.2 ([#384](https://www.github.com/googleapis/java-asset/issues/384)) ([1959759](https://www.github.com/googleapis/java-asset/commit/1959759793a7cbc698c9a6523245407ac8bac740))
+
 ### [2.0.2](https://www.github.com/googleapis/java-asset/compare/v2.0.1...v2.0.2) (2020-09-23)
 
 
